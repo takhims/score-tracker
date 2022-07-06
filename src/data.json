@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Arun",
+    "subjectsWithMarks": { "Physics": 78, "Chemistry": 81, "Maths": 90 }
+  },
+  {
+    "id": "2",
+    "name": "Anisha",
+    "subjectsWithMarks": { "Accounts": 75, "BST": 84, "FM": 96 }
+  },
+  {
+    "id": "3",
+    "name": "Siddharth",
+    "subjectsWithMarks": { "Arts": 88, "Sociology": 84, "English": 99 }
+  },
+  {
+    "id": "4",
+    "name": "Ashima",
+    "subjectsWithMarks": { "Physics": 79, "Chemistry": 89, "Biology": 91 }
+  },
+  {
+    "id": "5",
+    "name": "Lakshay",
+    "subjectsWithMarks": { "Accounts": 79, "BST": 66, "FM": 68 }
+  }
+]
